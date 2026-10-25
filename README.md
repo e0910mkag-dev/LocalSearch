@@ -30,3 +30,13 @@ It is designed as a read-only search tool and does not delete, rename, move, or 
 ## Feedback
 
 Bug reports and usability feedback are welcome through GitHub Issues.
+
+## Screenshots
+
+### Content search
+
+![Content search](screenshots/local-search-content-en.png)
+
+### File name search
+
+![File name search](screenshots/local-search-filename-en.png)
